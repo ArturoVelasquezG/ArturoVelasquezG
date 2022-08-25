@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ArturoVelasquezG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ArturoVelasquezG/ArturoVelasquezG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+HOLA 👋🧑🏽¡
+<h1>Me llamo<br>
+Arturo Velasquez Galicia<h1>
+  
+<h3>Egresado de ingenieria Mecatrónica 🤖💻👩🏽‍🔧
+ 
+Busco formar parte de la comunidad de desarrolladores y programadores. Poco a poco subire algunos de los proyectos que he realizado.<h3>
